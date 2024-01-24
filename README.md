@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Tableau, ML Algorithms
 
 ## Education
-#### B.S., Computer Engineering| Kennesaw State University (_May 2023_)
-#### A.S., Electrical Engineering | Clarence Fritzroy Bryant College (_September 2018_)
+- B.S., Computer Engineering| Kennesaw State University (_May 2023_)
+- A.S., Electrical Engineering | Clarence Fritzroy Bryant College (_September 2018_)
 
 ## Work Experience
 **Data Analyst @ LendingPoint (_June 2023_ - _January 2024_)**
