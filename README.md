@@ -3,10 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Tableau, ML Algorithms
 
 ## Education
-- B.S., Computer Engineering| Kennesaw State University (_May 2023_)
----
-- A.S., Electrical Engineering | Clarence Fritzroy Bryant College (_September 2018_)
----
+#### B.S., Computer Engineering| Kennesaw State University (_May 2023_)
+#### A.S., Electrical Engineering | Clarence Fritzroy Bryant College (_September 2018_)
+
 ## Work Experience
 **Data Analyst @ LendingPoint (_June 2023_ - _January 2024_)**
 - Achieved a 79% reduction in SQL query slot usage (from 1,200 to 250) and reduced query execution time by 80% (from 20 minutes to 4 minutes), resulting in significantly improved data processing efficiency and resource utilization.
