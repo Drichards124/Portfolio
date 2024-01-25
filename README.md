@@ -19,8 +19,9 @@
 
 ## Projects
 **DNA Sequence Classification with Advanced ML Techniques** | [View Results](https://github.com/Drichards124/DNA-Sequence/tree/main)
+Utilized advanced machine learning techniques and neural network architectures, specifically a Multi-layer Perceptron (MLP) classifier, to decode and classify genetic sequences from a comprehensive DNA dataset. The project's goal was to map segments of DNA to their corresponding nucleotides meticulously—adenine (A), cytosine (C), guanine (G), and thymine (T)—with high accuracy and efficiency. Through rigorous preprocessing of biological data into a machine-readable format and meticulous training of the neural model, we leveraged the MLP's sophisticated pattern recognition capabilities to achieve this objective.
 
-**Location-Based Restaurant Recommendation System** | [View Results]( (Github)
+**Location-Based Restaurant Recommendation System** | [View Results](https://github.com/Drichards124/location-based-recommendation-system.git) (Github)
 Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas for effective visualization of the spatial data, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
 
 (Add Photo)
