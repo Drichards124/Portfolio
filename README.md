@@ -22,7 +22,7 @@
 
 Utilized advanced machine learning techniques and neural network architectures, specifically a Multi-layer Perceptron (MLP) classifier, to decode and classify genetic sequences from a comprehensive DNA dataset. The project's goal was to map segments of DNA to their corresponding nucleotides meticulously—adenine (A), cytosine (C), guanine (G), and thymine (T)—with high accuracy and efficiency. Through rigorous preprocessing of biological data into a machine-readable format and meticulous training of the neural model, I leveraged the MLP's sophisticated pattern recognition capabilities to achieve this objective.
 
-![DNA](assets/depositphotos_54858953-stock-photo-dna-helix-on-hand.jpg)
+![DNA](assets/DNA.jpg)
 
 **Location-Based Restaurant Recommendation System** | [View Results](https://github.com/Drichards124/location-based-recommendation-system.git) (Github)
 
