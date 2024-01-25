@@ -28,12 +28,12 @@ Utilized advanced machine learning techniques and neural network architectures, 
 
 Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas for effective visualization of the spatial data, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
 
-(Add Photo)
+![Location](assets/location.png)
 
 **Sentiment Analysis of YouTube Viewer Comments** | [View Results](https://github.com/Drichards124/sentiment-analysis.git)
 Applied sentiment analysis models to analyze viewers' comments on various YouTube videos, aiming to determine if the overall sentiment is positive, negative, or neutral. This approach seeks to provide a detailed insight into audience reactions and engagement.
 
-
+![Sentiment](assets/sentiment.png)
 
 **Strategic Insights: Ecommerce Sales Data Analysis** | [View Results](https://github.com/Drichards124/Sales-Data_Analysis) (Github)
 
