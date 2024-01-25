@@ -39,4 +39,4 @@ Applied sentiment analysis models to analyze viewers' comments on various YouTub
 
 Utilized sophisticated data analytics and visualization tools to thoroughly examine a diverse electronics store's 2019 sales figures, revealing key insights and trends. The primary goal was to utilize this data to inform strategic choices, highlight growth prospects, and identify crucial improvement areas. This initiative is set to lay the groundwork for focused business strategies and enhance market competitiveness.
 
-
+![Sales](assets/sales.png)
