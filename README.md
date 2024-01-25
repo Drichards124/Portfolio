@@ -18,10 +18,16 @@
 - Adapted to feedback, implemented effective strategies, and consistently exceeded performance metrics, earning recognition as a top performer. These experiences have equipped me with valuable skills to excel in roles such as Data Analytics.
 
 ## Projects
-- Big Project 1
-- Big Project 2
-- Big Project 3
-- Big Project 4
-- Big Project 5
-- Big Project 6
-- Big Project 7
+**DNA Sequence Classification with Advanced ML Techniques**
+
+**Location-Based Restaurant Recommendation System** | [View Results] (Github)
+Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas for effective visualization of the spatial data, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
+
+
+
+
+
+
+**Sentiment Analysis of YouTube Viewer Comments**
+**Strategic Insights: Ecommerce Sales Data Analysis**
+
