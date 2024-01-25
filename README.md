@@ -32,12 +32,15 @@ Developed a location-based restaurant recommendation system using this [Yelp Dat
 
 ![Location](assets/location.png)
 
-### Sentiment Analysis of YouTube Viewer Comments | [View Results](https://github.com/Drichards124/sentiment-analysis.git)
+### Sentiment Analysis of YouTube Viewer Comments
+[View Results](https://github.com/Drichards124/sentiment-analysis.git) (Github)
+
 Applied sentiment analysis models to analyze viewers' comments on various YouTube videos, aiming to determine if the overall sentiment is positive, negative, or neutral. This approach seeks to provide a detailed insight into audience reactions and engagement.
 
 ![Sentiment](assets/sentiment.png)
 
-### Strategic Insights: Ecommerce Sales Data Analysis | [View Results](https://github.com/Drichards124/Sales-Data_Analysis) (Github)
+### Strategic Insights: Ecommerce Sales Data Analysis 
+[View Results](https://github.com/Drichards124/Sales-Data_Analysis) (Github)
 
 Utilized sophisticated data analytics and visualization tools to thoroughly examine a diverse electronics store's 2019 sales figures, revealing key insights and trends. The primary goal was to utilize this data to inform strategic choices, highlight growth prospects, and identify crucial improvement areas. This initiative is set to lay the groundwork for focused business strategies and enhance market competitiveness.
 
