@@ -8,8 +8,8 @@
 
 ## Work Experience
 **Data Analyst @ LendingPoint (_June 2023_ - _January 2024_)**
-- Achieved a 79% reduction in SQL query slot usage (from 1,200 to 250) and reduced query execution time by 80% (from 20 minutes to 4 minutes), resulting in significantly improved data processing efficiency and resource utilization.
-- Implemented a DOMO-based dashboard utilizing SQL tailored for the Vice President of Point Of Need, enabling real-time tracking of vendor funding and applications. This strategic initiative led to a substantial 23% reduction in fraudulent merchant applications. 
+- Achieved a 79% reduction in SQL query slot usage (from 1,200 to 250) and reduced query execution time by 80% (from 20 minutes to 4 minutes), significantly improving data processing efficiency and resource utilization.
+- Implemented a DOMO-based dashboard utilizing SQL tailored for the Vice President of Point Of Need, enabling real-time vendor funding and applications tracking. This strategic initiative led to a substantial 23% reduction in fraudulent merchant applications. 
 - Spearheaded the development of a master QA datasheet using BI tools, resulting in a 31% reduction in Full-Time Equivalent hours. This enabled data visibility and change impact analysis for non-SQL users across the project management team and interested executives/stakeholders. 
 
 **Customer Service @ LendingPoint (_August 2021_ - _June 2023_)**
@@ -25,23 +25,31 @@ Utilized advanced machine learning techniques and neural network architectures, 
 
 ![DNA](assets/DNA.jpeg)
 
+
+## Bank Customer Churn Prediction Using ANN and H2O AutoML
+
+Utilized Python to implement and compare two machine learning models, an Artificial Neural Network (ANN) and H2O's Automated Machine Learning (AutoML), to predict customer churn. Starting with comprehensive data analysis and feature engineering, I identified key factors contributing to customer turnover. I then constructed a tailored ANN model to detect intricate customer behaviors and an H2O AutoML ensemble model for robust prediction capabilities. I aimed to accurately classify and assign a probability to potential churn, enabling targeted and effective customer retention strategies. Through this methodical approach, I aimed to leverage the predictive power of machine learning to reduce customer churn.
+
+
+
+
 ### Location-Based Restaurant Recommendation System 
 [View Results](https://github.com/Drichards124/location-based-recommendation-system.git) (Github)
 
-Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas for effective visualization of the spatial data, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
+Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas to visualize the spatial data effectively, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
 
 ![Location](assets/location.png)
 
 ### Sentiment Analysis of YouTube Viewer Comments
 [View Results](https://github.com/Drichards124/sentiment-analysis.git) (Github)
 
-Applied sentiment analysis models to analyze viewers' comments on various YouTube videos, aiming to determine if the overall sentiment is positive, negative, or neutral. This approach seeks to provide a detailed insight into audience reactions and engagement.
+Applied sentiment analysis models to analyze viewers' comments on various YouTube videos to determine whether the overall sentiment is positive, negative, or neutral. This approach seeks to provide a detailed insight into audience reactions and engagement.
 
 ![Sentiment](assets/sentiment.png)
 
-### Strategic Insights: Ecommerce Sales Data Analysis 
+### Strategic Insights: E-commerce Sales Data Analysis 
 [View Results](https://github.com/Drichards124/Sales-Data_Analysis) (Github)
 
-Utilized sophisticated data analytics and visualization tools to thoroughly examine a diverse electronics store's 2019 sales figures, revealing key insights and trends. The primary goal was to utilize this data to inform strategic choices, highlight growth prospects, and identify crucial improvement areas. This initiative is set to lay the groundwork for focused business strategies and enhance market competitiveness.
+Utilized sophisticated data analytics and visualization tools to thoroughly examine a diverse electronics store's 2019 sales figures, revealing key insights and trends. The primary goal was to utilize this data to inform strategic choices, highlight growth prospects, and identify crucial improvement areas. This initiative will lay the groundwork for focused business strategies and enhance market competitiveness.
 
 ![Sales](assets/sales.png)
