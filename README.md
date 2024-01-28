@@ -18,7 +18,7 @@
 - Adapted to feedback, implemented effective strategies, and consistently exceeded performance metrics, earning recognition as a top performer. These experiences have equipped me with valuable skills to excel in roles such as Data Analytics.
 
 ## Projects
-### DNA Sequence Classification with Advanced ML Techniques
+## DNA Sequence Classification with Advanced ML Techniques
 [View Results](https://github.com/Drichards124/DNA-Sequence/tree/main) (Github)
 
 Utilized advanced machine learning techniques and neural network architectures, specifically a Multi-layer Perceptron (MLP) classifier, to decode and classify genetic sequences from a comprehensive DNA dataset. The project's goal was to map segments of DNA to their corresponding nucleotides meticulously—adenine (A), cytosine (C), guanine (G), and thymine (T)—with high accuracy and efficiency. Through rigorous preprocessing of biological data into a machine-readable format and meticulous training of the neural model, I leveraged the MLP's sophisticated pattern recognition capabilities to achieve this objective.
@@ -36,7 +36,7 @@ Utilized Python to implement and compare two machine learning models, an Artific
 
 
 
-### Location-Based Restaurant Recommendation System 
+## Location-Based Restaurant Recommendation System 
 [View Results](https://github.com/Drichards124/location-based-recommendation-system.git) (Github)
 
 Developed a location-based restaurant recommendation system using this [Yelp Dataset](https://www.dropbox.com/s/3x1w789mmuae3ao/yelp_academic_dataset_business.zip). Key to this was the application of KMeans clustering, focusing on user reviews and geographical data. I employed Plotly and GeoPandas to visualize the spatial data effectively, enhancing the interpretability of the model. The project culminated in creating a function that recommends restaurants based on user-provided geographic coordinates, demonstrating my skills in leveraging machine learning and data visualization tools to derive practical, user-focused solutions.
@@ -45,7 +45,7 @@ Developed a location-based restaurant recommendation system using this [Yelp Dat
 
 
 
-### Sentiment Analysis of YouTube Viewer Comments
+## Sentiment Analysis of YouTube Viewer Comments
 [View Results](https://github.com/Drichards124/sentiment-analysis.git) (Github)
 
 Applied sentiment analysis models to analyze viewers' comments on various YouTube videos to determine whether the overall sentiment is positive, negative, or neutral. This approach seeks to provide a detailed insight into audience reactions and engagement.
@@ -54,7 +54,7 @@ Applied sentiment analysis models to analyze viewers' comments on various YouTub
 
 
 
-### Strategic Insights: E-commerce Sales Data Analysis 
+## Strategic Insights: E-commerce Sales Data Analysis 
 [View Results](https://github.com/Drichards124/Sales-Data_Analysis) (Github)
 
 Utilized sophisticated data analytics and visualization tools to thoroughly examine a diverse electronics store's 2019 sales figures, revealing key insights and trends. The primary goal was to utilize this data to inform strategic choices, highlight growth prospects, and identify crucial improvement areas. This initiative will lay the groundwork for focused business strategies and enhance market competitiveness.
