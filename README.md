@@ -27,6 +27,7 @@ Utilized advanced machine learning techniques and neural network architectures, 
 
 
 ## Bank Customer Churn Prediction Using ANN and H2O AutoML
+[View Results](https://github.com/Drichards124/bank-customer-churn-prediction.git) (Github)
 
 Utilized Python to implement and compare two machine learning models, an Artificial Neural Network (ANN) and H2O's Automated Machine Learning (AutoML), to predict customer churn. Starting with comprehensive data analysis and feature engineering, I identified key factors contributing to customer turnover. I then constructed a tailored ANN model to detect intricate customer behaviors and an H2O AutoML ensemble model for robust prediction capabilities. I aimed to accurately classify and assign a probability to potential churn, enabling targeted and effective customer retention strategies. Through this methodical approach, I aimed to leverage the predictive power of machine learning to reduce customer churn.
 
