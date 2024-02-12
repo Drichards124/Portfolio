@@ -8,9 +8,9 @@
 
 ## Work Experience
 **Data Analyst @ LendingPoint (_June 2023_ - _January 2024_)**
-- Achieved a 79% reduction in SQL query slot usage (from 1,200 to 250) and reduced query execution time by 80% (from 20 minutes to 4 minutes), significantly improving data processing efficiency and resource utilization.
-- Implemented a DOMO-based dashboard utilizing SQL tailored for the Vice President of Point Of Need, enabling real-time vendor funding and applications tracking. This strategic initiative led to a substantial 23% reduction in fraudulent merchant applications. 
-- Spearheaded the development of a master QA datasheet using BI tools, resulting in a 31% reduction in Full-Time Equivalent hours. This enabled data visibility and change impact analysis for non-SQL users across the project management team and interested executives/stakeholders. 
+- Partnered with Senior Data Analyst in Business Development to analyze 2023 Refi Performance using BigQuery and Tableau, driving strategic changes that boosted Refi Volume by $15 Million.
+- Developed a DOMO-based SQL dashboard for the Vice President of Point Of Need, facilitating real-time tracking of vendor funding and applications, reducing fraudulent merchant applications by 23%
+- Led the creation of a master QA datasheet using BI tools, achieving a 31% reduction in Full-Time Equivalent hours, enhancing data visibility and impact analysis for non-SQL users, including project managers and executives.
 
 **Customer Service @ LendingPoint (_August 2021_ - _June 2023_)**
 - Managed 100+ daily customer inquiries with care, empathy, and effective problem-solving, resulting in increased loyalty and a 4.9/5 customer satisfaction rating over 30,000 calls.
